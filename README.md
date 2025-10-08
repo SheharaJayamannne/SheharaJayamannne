@@ -13,9 +13,6 @@
   <a href="https://github.com/SheharaDinithi" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 <!-- Languages & Tools Section -->
