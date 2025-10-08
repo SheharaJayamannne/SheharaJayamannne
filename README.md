@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/shehara-jayamanne-574321353" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mailto.link/sheharadinithi.jayamanne@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:sheharadinithi.jayamanne@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/SheharaJayamannne" target="_blank" rel="noreferrer">
