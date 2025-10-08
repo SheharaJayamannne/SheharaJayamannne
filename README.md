@@ -4,7 +4,7 @@
 <!-- Connect Section -->
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/shehara-jayamanne-574321353" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
