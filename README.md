@@ -65,8 +65,8 @@
   </a>
 </p>
 
-<!-- Fun Animated Stats Section -->
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">💻 Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SheharaJayamannne&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheharaJayamanne&layout=compact&theme=merko" alt="Most Used Languages">
 </p>
+
