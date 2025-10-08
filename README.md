@@ -67,6 +67,6 @@
 
 <h3 align="center">💻 Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheharaJayamanne&layout=compact&theme=merko" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheharaJayamannne&layout=compact&theme=merko" alt="Most Used Languages">
 </p>
 
